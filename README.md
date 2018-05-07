@@ -1,4 +1,4 @@
-# Solving 8-Tile puzzle using A* search and DFS
+# Solving 8-Tile Puzzle Using A* Search and DFS
 
 On the start of the program, the program prompts user for input.
 User has to Enter any number from 1-8 once and 0 for space
